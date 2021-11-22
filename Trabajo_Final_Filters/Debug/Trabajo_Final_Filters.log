@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\PC\source\repos\Trabajo_Final_Filters\Trabajo_Final_Filters\dataset.hpp(27,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\PC\source\repos\Trabajo_Final_Filters\Trabajo_Final_Filters\binarytree.hpp(122): warning C4715: 'BinaryTree<BlockCompareNode<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,Register *> >::_searchFirst': no todas las rutas de acceso de control devuelven un valor
+C:\Users\PC\source\repos\Trabajo_Final_Filters\Trabajo_Final_Filters\binarytree.hpp(45): warning C4715: 'BinaryTree<BlockCompareNode<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,Register *> >::_insertar': no todas las rutas de acceso de control devuelven un valor
+  Trabajo_Final_Filters.vcxproj -> C:\Users\PC\source\repos\Trabajo_Final_Filters\Debug\Trabajo_Final_Filters.exe
